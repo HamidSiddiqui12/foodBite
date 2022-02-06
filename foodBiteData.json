@@ -1,0 +1,843 @@
+[{
+        "name": "Chicken Burrito",
+        "food_type": "Non-veg",
+        "category": "Burrito",
+        "description": null,
+        "price": 180,
+        "image": "./img/1.jpg",
+        "rating": 5
+    }, {
+        "name": "Steak Burrito",
+        "food_type": "Non-veg",
+        "category": "Buritto",
+        "description": null,
+        "price": 240,
+        "image": "./img/2.jpg",
+        "rating": 4.5
+    }, {
+        "name": "Chicken Salad",
+        "food_type": "veg",
+        "category": "Salad",
+        "description": null,
+        "price": 120,
+        "image": "./img/3.jpg",
+        "rating": 4
+    }, {
+        "name": "Cheese Quesadilla",
+        "food_type": "Veg",
+        "category": "Quesadilla",
+        "description": null,
+        "price": 200,
+        "image": "./img/4.jpg",
+        "rating": 4
+    }, {
+        "name": "BBQ Chicken Flatbread",
+        "food_type": "Non-veg",
+        "category": "Sandwich",
+        "description": null,
+        "price": 300,
+        "image": "./img/5.jpg",
+        "rating": 4.5
+    }, {
+        "name": "Turkey Cranberry Flatbread",
+        "food_type": "Veg",
+        "category": "Sandwich",
+        "description": null,
+        "price": 250,
+        "image": "./img/6.jpg",
+        "rating": 4
+    }, {
+        "name": "Whopper Sandwich",
+        "food_type": "Veg",
+        "category": "Sandwich",
+        "description": null,
+        "price": 120,
+        "image": "./img/7.jpg",
+        "rating": 4.5
+    }, {
+        "name": "Triple Whopper with Cheese",
+        "food_type": "Veg",
+        "category": "Cheese Sandwich",
+        "description": null,
+        "price": 210,
+        "image": "./img/8.jpg",
+        "rating": 4.5
+    }, {
+        "name": "Crispy Chicken Sandwich",
+        "food_type": "Non-veg",
+        "category": "Sandwich",
+        "description": null,
+        "price": 250,
+        "image": "./img/9.jpg",
+        "rating": 5
+    }, {
+        "name": "Apple Pie",
+        "food_type": "Veg",
+        "category": "Pie",
+        "description": null,
+        "price": 125,
+        "image": "./img/10.jpg",
+        "rating": 4.5
+    }, {
+        "name": "Black Forest Ham",
+        "food_type": "Non-veg",
+        "category": "Sandwich",
+        "description": null,
+        "price": 210,
+        "image": "./img/11.jpg",
+        "rating": 4
+    }, {
+        "name": "Meatball Marinara",
+        "food_type": "Non-veg",
+        "category": null,
+        "description": null,
+        "price": 240,
+        "image": "./img/12.jpg",
+        "rating": 4
+    }, {
+        "name": "Oven Roasted Chicken Salad",
+        "food_type": "Veg",
+        "category": "Salad",
+        "description": null,
+        "price": 350,
+        "image": "./img/13.jpg",
+        "rating": 5
+    }, {
+        "name": "Double Chocolate Cookie",
+        "food_type": "Veg",
+        "category": "Cookie",
+        "description": null,
+        "price": 190,
+        "image": "./img/14.jpg",
+        "rating": 5
+    }, {
+        "name": "Bacon Angus Beef Burger",
+        "food_type": "Non.veg",
+        "category": "Bacon",
+        "description": null,
+        "price": 320,
+        "image": "./img/15.jpg",
+        "rating": 4.5
+    }, {
+        "name": "Hot and Spicy McChicken",
+        "food_type": "Non-veg",
+        "category": "Chicken",
+        "description": null,
+        "price": 250,
+        "image": "./img/16.jpg",
+        "rating": 4.5
+    }, {
+        "name": "Large Fries",
+        "food_type": "Veg",
+        "category": "Fries",
+        "description": null,
+        "price": 180,
+        "image": "./img/17.jpg",
+        "rating": 4.5
+    }, {
+        "name": "Medium Fries",
+        "food_type": "Veg",
+        "category": "Fries",
+        "description": null,
+        "price": 120,
+        "image": "./img/18.jpg",
+        "rating": 4
+    }, {
+        "name": "Chocolate Chip Cookie",
+        "food_type": "Veg",
+        "category": "Cookie",
+        "description": null,
+        "price": 160,
+        "image": "./img/19.jpg",
+        "rating": 4
+    }, {
+        "name": "Potato Burrito",
+        "food_type": "Veg",
+        "category": "Burrito",
+        "description": null,
+        "price": 190,
+        "image": "./img/20.jpg",
+        "rating": 4
+    }, {
+        "name": "Cheesy Bean and Rice Burrito",
+        "food_type": "Veg",
+        "category": "Burrito",
+        "description": null,
+        "price": 250,
+        "image": "./img/21.jpg",
+        "rating": 4
+    }, {
+        "name": "Double Thickburger",
+        "food_type": "Veg",
+        "category": "Burger",
+        "description": null,
+        "price": 170,
+        "image": "./img/22.jpg",
+        "rating": 5
+    }, {
+        "name": "Monster Thickburger",
+        "food_type": "Non-veg",
+        "category": "Burger",
+        "description": null,
+        "price": 200,
+        "image": "./img/23.jpg",
+        "rating": 4.5
+    }, {
+        "name": "Small Cheese burger",
+        "food_type": "Veg",
+        "category": "burger",
+        "description": null,
+        "price": 210,
+        "image": "./img/24.jpg",
+        "rating": 4.2
+    }, {
+        "name": "Hamburger",
+        "food_type": "non-veg",
+        "category": "burger",
+        "description": null,
+        "price": 100,
+        "image": "./img/25.jpg",
+        "rating": 4.1
+    }, {
+        "name": "Cheeseburger",
+        "food_type": "veg",
+        "category": "burger",
+        "description": null,
+        "price": 100,
+        "image": "./img/26.jpg",
+        "rating": 4
+    }, {
+        "name": "HotDog",
+        "food_type": "non-veg",
+        "category": "beef",
+        "description": null,
+        "price": 100,
+        "image": "./img/27.jpg",
+        "rating": 4
+    }, {
+        "name": "Veggie Burger",
+        "food_type": "veg",
+        "category": "Burger",
+        "description": null,
+        "price": 100,
+        "image": "./img/28.jpg",
+        "rating": 4.8
+    }, {
+        "name": "Chocolate Shake",
+        "food_type": "veg",
+        "category": "Shake",
+        "description": "Dark Chocolate",
+        "price": 100,
+        "image": "./img/29.jpg",
+        "rating": 4.2
+    }, {
+        "name": "Vanilla Shake",
+        "food_type": "veg",
+        "category": "Shake",
+        "description": null,
+        "price": 100,
+        "image": "./img/30.jpg",
+        "rating": 4.8
+    }, {
+        "name": "Grilled Cheese",
+        "food_type": "veg",
+        "category": "Cheese",
+        "description": "Diped in soya sauce",
+        "price": 100,
+        "image": "./img/31.jpg",
+        "rating": 4.6
+    }, {
+        "name": "Peanut Butter Cup Cake",
+        "food_type": "veg",
+        "category": "Snack",
+        "description": "Nut",
+        "price": 100,
+        "image": "./img/32.jpg",
+        "rating": 4.4
+    }, {
+        "name": "Trixy Cup",
+        "food_type": "veg",
+        "category": "Dessert",
+        "description": null,
+        "price": 100,
+        "image": "./img/33.jpg",
+        "rating": 4.5
+    }, {
+        "name": "Cornetto Chokissimo",
+        "food_type": "veg",
+        "category": "Ice-Cream",
+        "description": null,
+        "price": 100,
+        "image": "./img/34.jpg",
+        "rating": 4.9
+    }, {
+        "name": "Blackcurrant & Raisins Ice-creame",
+        "food_type": "veg",
+        "category": "Ice-creame",
+        "description": "Family Pack",
+        "price": 100,
+        "image": "./img/35.jpg",
+        "rating": 4.8
+    }, {
+        "name": "Corentto Pack",
+        "food_type": "veg",
+        "category": "Ice-creame",
+        "description": "(Oreo + Double Chocolate)",
+        "price": 545,
+        "image": "./img/36.jpg",
+        "rating": 4.5
+    }, {
+        "name": "Butter Masala Dosa",
+        "food_type": "veg",
+        "category": "Dosa",
+        "description": null,
+        "price": 100,
+        "image": "./img/37.jpg",
+        "rating": 4
+    }, {
+        "name": "Onion Masala Dosa",
+        "food_type": "veg",
+        "category": "Dosa",
+        "description": null,
+        "price": 100,
+        "image": "./img/38.jpg",
+        "rating": 4.5
+    }, {
+        "name": "Tandoori Chicken",
+        "food_type": "non-veg",
+        "category": "Chicken",
+        "description": null,
+        "price": 260,
+        "image": "./img/39.jpg",
+        "rating": 4.9
+    }, {
+        "name": "Chicken Biryani",
+        "food_type": "non-veg",
+        "category": "Chicken",
+        "description": null,
+        "price": 350,
+        "image": "./img/40.jpg",
+        "rating": 4.8
+    }, {
+        "name": "Veg Biryani",
+        "food_type": "Veg",
+        "category": "Biryani",
+        "description": "Veg",
+        "price": 100,
+        "image": "./img/41.jpg",
+        "rating": 4.7
+    }, {
+        "name": "Butter Naan",
+        "food_type": "veg",
+        "category": "Naan",
+        "description": null,
+        "price": 50,
+        "image": "./img/42.jpg",
+        "rating": 4
+    }, {
+        "name": "Tandoori Roti",
+        "food_type": "veg",
+        "category": "Roti",
+        "description": "",
+        "price": 25,
+        "image": "./img/43.jpg",
+        "rating": 4.4
+    }, {
+        "name": "Cheese Masala Dosa",
+        "food_type": "veg",
+        "category": "Dosa",
+        "description": null,
+        "price": 150,
+        "image": "./img/44.jpg",
+        "rating": 4.6
+    }, {
+        "name": "Onion Uthapam",
+        "food_type": "veg",
+        "category": "Uthapam",
+        "description": null,
+        "price": 95,
+        "image": "./img/45.jpg",
+        "rating": 4.2
+    }, {
+        "name": "Veg Uthapam",
+        "food_type": "veg",
+        "category": "Uthapam",
+        "description": "",
+        "price": 90,
+        "image": "./img/46.jpg",
+        "rating": 3.5
+    }, {
+        "name": "Veg Fried Rice + Veg Manchurian",
+        "food_type": "veg",
+        "category": "Fried Rice + Manchurian",
+        "description": null,
+        "price": 250,
+        "image": "./img/47.jpg",
+        "rating": 4.5
+    }, {
+        "name": "Veg Noodle + Manchurian",
+        "food_type": "veg",
+        "category": "Noodle + Manchurian",
+        "description": null,
+        "price": 200,
+        "image": "./img/48.jpg",
+        "rating": 4.3
+    }, {
+        "name": "Cream Of Tomato Soup",
+        "food_type": "veg",
+        "category": "Soup",
+        "description": null,
+        "price": 80,
+        "image": "./img/49.jpg",
+        "rating": 4.9
+    }, {
+        "name": "Veg Manchow Soup",
+        "food_type": "veg",
+        "category": "Soup",
+        "description": null,
+        "price": 80,
+        "image": "./img/50.jpg",
+        "rating": 4.4
+    }, {
+        "name": "Paneer Tikka",
+        "food_type": "veg",
+        "category": "Tikka",
+        "description": "6 pcs",
+        "price": 260,
+        "image": "./img/51.jpg",
+        "rating": 4.8
+    }, {
+        "name": "Paneer Achari Tikka",
+        "food_type": "veg",
+        "category": "Tikka",
+        "description": "(6 Pcs)",
+        "price": 260,
+        "image": "./img/52.jpg",
+        "rating": 4.8
+    }, {
+        "name": "Malai Chaap",
+        "food_type": "veg",
+        "category": "Chaap",
+        "description": null,
+        "price": 200,
+        "image": "./img/53.jpg",
+        "rating": 4
+    }, {
+        "name": "Paneer Munchurian Dry",
+        "food_type": "veg",
+        "category": "Munchurian",
+        "description": null,
+        "price": 200,
+        "image": "./img/54.jpg",
+        "rating": 4.2
+    }, {
+        "name": "Mushroom Manchurian Dry",
+        "food_type": "veg",
+        "category": "Munchurian",
+        "description": null,
+        "price": 100,
+        "image": "./img/55.jpg",
+        "rating": 4.1
+    }, {
+        "name": "Paneer Munchurian Gravy",
+        "food_type": "veg",
+        "category": "Munchurian",
+        "description": "",
+        "price": 200,
+        "image": "./img/56.jpg",
+        "rating": 4.4
+    }, {
+        "name": "Mushroom Manchurian Gravy",
+        "food_type": "veg",
+        "category": "Munchurian",
+        "description": null,
+        "price": 200,
+        "image": "./img/57.jpg",
+        "rating": 4
+    }, {
+        "name": "Singapuri Manchurian",
+        "food_type": "veg",
+        "category": "Munchurian",
+        "description": null,
+        "price": 250,
+        "image": "./img/58.jpg",
+        "rating": 4.3
+    }, {
+        "name": "Singapuri Noodle",
+        "food_type": "veg",
+        "category": "Noodle",
+        "description": null,
+        "price": 120,
+        "image": "./img/59.jpg",
+        "rating": 4.8
+    }, {
+        "name": "Chilli Garlic Noodle",
+        "food_type": "veg",
+        "category": "Noodle",
+        "description": null,
+        "price": 150,
+        "image": "./img/60.jpg",
+        "rating": 4.6
+    }, {
+        "name": "Paneer Veg Noodle",
+        "food_type": "veg",
+        "category": "Noodle",
+        "description": null,
+        "price": 200,
+        "image": "./img/61.jpg",
+        "rating": 4.7
+    },
+    {
+        "name": "Singapuri Fried Rice",
+        "food_type": "veg",
+        "category": "Rice",
+        "description": null,
+        "price": 170,
+        "image": "./img/62.jpg",
+        "rating": 4.7
+    }, {
+        "name": "Szechwan Fried Rice",
+        "food_type": "veg",
+        "category": "Rice",
+        "description": null,
+        "price": 100,
+        "image": "./img/63.jpg",
+        "rating": 4.8
+    }, {
+        "name": "Pudina Parantha",
+        "food_type": "veg",
+        "category": "Parantha",
+        "description": null,
+        "price": 100,
+        "image": "./img/64.jpg",
+        "rating": 4.9
+    }, {
+        "name": "Paneer Kulcha",
+        "food_type": "veg",
+        "category": "Kulcha",
+        "description": null,
+        "price": 100,
+        "image": "./img/65.jpg",
+        "rating": 4
+    }, {
+        "name": "Lachha Parantha",
+        "food_type": "veg",
+        "category": "Parantha",
+        "description": null,
+        "price": 100,
+        "image": "./img/66.jpg",
+        "rating": 5
+    }, {
+        "name": "Napoli Veggies Semizza",
+        "food_type": "veg",
+        "category": "Pizza",
+        "description": "",
+        "price": 320,
+        "image": "./img/67.jpg",
+        "rating": 4.8
+    }, {
+        "name": "Margherita Semizza",
+        "food_type": "veg",
+        "category": "Pizza",
+        "description": null,
+        "price": 350,
+        "image": "./img/68.jpg",
+        "rating": 4.5
+    }, {
+        "name": "Chicken Meatball and Onion Semizza",
+        "food_type": "non-veg",
+        "category": "Pizza",
+        "description": null,
+        "price": 450,
+        "image": "./img/69.jpg",
+        "rating": 4.7
+    }, {
+        "name": "Mutton Overload Semizza",
+        "food_type": "non-veg",
+        "category": "Pizza",
+        "description": null,
+        "price": 560,
+        "image": "./img/70.jpg",
+        "rating": 4
+    }, {
+        "name": "Chicken Tikka & Kheema Semizza",
+        "food_type": "",
+        "category": "",
+        "description": "",
+        "price": 100,
+        "image": "./img/71.jpg",
+        "rating": 4.8
+    }, {
+        "name": "Maharaja Veg Semizza",
+        "food_type": "veg",
+        "category": "Pizza",
+        "description": null,
+        "price": 420,
+        "image": "./img/72.jpg",
+        "rating": 4
+    }, {
+        "name": "Caramelized Onion Pizza",
+        "food_type": "veg",
+        "category": "Pizza",
+        "description": null,
+        "price": 325,
+        "image": "./img/73.jpg",
+        "rating": 4.6
+    }, {
+        "name": "Corn and Cheese Pizza",
+        "food_type": "veg",
+        "category": "Pizza",
+        "description": null,
+        "price": 290,
+        "image": "./img/74.jpg",
+        "rating": 3.9
+    }, {
+        "name": "Exotica Paneer Pizza",
+        "food_type": "veg",
+        "category": "Pizza",
+        "description": null,
+        "price": 450,
+        "image": "./img/75.jpg",
+        "rating": 4.5
+    }, {
+        "name": "Margherita Pizza",
+        "food_type": "veg",
+        "category": "Pizza",
+        "description": null,
+        "price": 300,
+        "image": "./img/76.jpg",
+        "rating": 4.2
+    }, {
+        "name": "Smoked Chicken Sausage Pizza",
+        "food_type": "non-veg",
+        "category": "Pizza",
+        "description": null,
+        "price": 425,
+        "image": "./img/77.jpg",
+        "rating": 4.7
+    }, {
+        "name": "Kheema and Sausage Pizza",
+        "food_type": "non-veg",
+        "category": "Pizza",
+        "description": null,
+        "price": 580,
+        "image": "./img/78.jpg",
+        "rating": 4.8
+    }, {
+        "name": "Chicken Delight Pizza",
+        "food_type": "non-veg",
+        "category": "Pizza",
+        "description": null,
+        "price": 490,
+        "image": "./img/79.jpg",
+        "rating": 4.5
+    }, {
+        "name": "Mutton Overload Pizza",
+        "food_type": "non-veg",
+        "category": "Pizza",
+        "description": null,
+        "price": 620,
+        "image": "./img/80.jpg",
+        "rating": 4.8
+    }, {
+        "name": "Spanish Sunshine Pizza",
+        "food_type": "veg",
+        "category": "Pizza",
+        "description": null,
+        "price": 420,
+        "image": "./img/81.jpg",
+        "rating": 4.7
+    }, {
+        "name": "Chicken Tikka and Kheema Pizza",
+        "food_type": "non-veg",
+        "category": "Pizza",
+        "description": null,
+        "price": 400,
+        "image": "./img/82.jpg",
+        "rating": 4.5
+    }, {
+        "name": "Peppy Paneer",
+        "food_type": "veg",
+        "category": "Pizza",
+        "description": null,
+        "price": 400,
+        "image": "./img/83.png",
+        "rating": 4
+    }, {
+        "name": "BBQ Chicken Pizza",
+        "food_type": "veg",
+        "category": "Pizza",
+        "description": null,
+        "price": 280,
+        "image": "./img/84.jpg",
+        "rating": 4.3
+    }, {
+        "name": "Middle Eastern Supreme Cheese Burst Pizza",
+        "food_type": "veg",
+        "category": "Pizza",
+        "description": null,
+        "price": 100,
+        "image": "./img/85.jpg",
+        "rating": 4.6
+    }, {
+        "name": "Farmfresh Supreme Cheese Burst Pizza",
+        "food_type": "veg",
+        "category": "Pizza",
+        "description": null,
+        "price": 490,
+        "image": "./img/86.jpg",
+        "rating": 4.7
+    }, {
+        "name": "Chicken Tikka and Double Cheese Margherita Pizza",
+        "food_type": "non-veg",
+        "category": "Pizza",
+        "description": "Combo for 2",
+        "price": 820,
+        "image": "./img/87.jpg",
+        "rating": 4.9
+    }, {
+        "name": "Butterscotch Chocolate Cake",
+        "food_type": "veg",
+        "category": "Cake",
+        "description": "500 grms",
+        "price": 500,
+        "image": "./img/88.jpg",
+        "rating": 4.7
+    }, {
+        "name": "Cocolate Cake",
+        "food_type": "veg",
+        "category": "Cake",
+        "description": "500 grms",
+        "price": 500,
+        "image": "./img/89.jpg",
+        "rating": 4.5
+    }, {
+        "name": "Vanilla Fresh Fruit Cake",
+        "food_type": "veg",
+        "category": "Cake",
+        "description": "500 grms",
+        "price": 490,
+        "image": "./img/90.jpg",
+        "rating": 4.5
+    }, {
+        "name": "Belgian Chocolate Cake",
+        "food_type": "veg",
+        "category": "Cake",
+        "description": "500 grms",
+        "price": 599,
+        "image": "./img/91.jpg",
+        "rating": 4.5
+    }, {
+        "name": "Choco Chip Cake",
+        "food_type": "veg",
+        "category": "Cake",
+        "description": "500 grms",
+        "price": 499,
+        "image": "./img/92.jpg",
+        "rating": 4.9
+    }, {
+        "name": "Choco Walnut Cake",
+        "food_type": "veg",
+        "category": "Cake",
+        "description": "250 grms",
+        "price": 399,
+        "image": "./img/93.jpg",
+        "rating": 4.7
+    }, {
+        "name": "Red Velvet Cake",
+        "food_type": "veg",
+        "category": "Cake",
+        "description": "500 grms",
+        "price": 799,
+        "image": "./img/94.jpg",
+        "rating": 5
+    }, {
+        "name": "Choco Truffle Pastry",
+        "food_type": "veg",
+        "category": "Pastry",
+        "description": "2 pcs",
+        "price": 140,
+        "image": "./img/95.jpg",
+        "rating": 4.8
+    }, {
+        "name": "Chicken Chilli Momo",
+        "food_type": "non-veg",
+        "category": "Momo",
+        "description": null,
+        "price": 240,
+        "image": "./img/96.jpg",
+        "rating": 4.8
+    }, {
+        "name": "Veg Paneer Tandoori Momo",
+        "food_type": "veg",
+        "category": "Momo",
+        "description": null,
+        "price": 210,
+        "image": "./img/97.jpg",
+        "rating": 4.7
+    }, {
+        "name": "Chicken Moburg",
+        "food_type": "non-veg",
+        "category": "Momo + burger",
+        "description": null,
+        "price": 120,
+        "image": "./img/98.jpg",
+        "rating": 4.6
+    }, {
+        "name": "Cheesy Chicken Moburg",
+        "food_type": "non-veg",
+        "category": "Momo + burger",
+        "description": null,
+        "price": 150,
+        "image": "./img/99.jpg",
+        "rating": 4.7
+    }, {
+        "name": "Paneer Pan Fried Momo",
+        "food_type": "veg",
+        "category": "Momo",
+        "description": null,
+        "price": 190,
+        "image": "./img/100.jpg",
+        "rating": 4.8
+    }, {
+        "name": "Chicken Schezwan Fried Momo",
+        "food_type": "non-veg",
+        "category": "Momo",
+        "description": null,
+        "price": 229,
+        "image": "./img/101.jpg",
+        "rating": 4.5
+    }, {
+        "name": "Chocolate Momo",
+        "food_type": "veg",
+        "category": "Momo",
+        "description": "2 pcs",
+        "price": 129,
+        "image": "./img/102.jpg",
+        "rating": 4.4
+    }, {
+        "name": "Corn And Cheese Paratha Tawa",
+        "food_type": "veg",
+        "category": "Paratha",
+        "description": "2 pcs",
+        "price": 149,
+        "image": "./img/103.jpg",
+        "rating": 4.5
+    }, {
+        "name": "Chilli Mushroom Roll",
+        "food_type": "veg",
+        "category": "Roll",
+        "description": "Mushroom",
+        "price": 210,
+        "image": "./img/104.jpg",
+        "rating": 4.5
+    }, {
+        "name": "Paneer Kathi Wrap",
+        "food_type": "veg",
+        "category": "Roll / Wrap",
+        "description": "2 pcs",
+        "price": 500,
+        "image": "./img/105.jpg",
+        "rating": 4.5
+    }
+]
